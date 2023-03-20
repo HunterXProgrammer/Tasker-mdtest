@@ -149,7 +149,7 @@ In Termux install `ffmpeg` using `pkg install -y ffmpeg` and then -
 
     ffmpeg -y -i "/path/to/input/file" -codec:a libopus -ac 1 -ar 48000 -f ogg "/path/to/output/file"
 
-You can use this properly formatted output audio file in the voice messages.
+You can use this properly optimized output audio file in the voice messages.
 
 # Credits
 **[whatsmeow](https://github.com/tulir/whatsmeow) -** Go library `mdtest` is based on.
