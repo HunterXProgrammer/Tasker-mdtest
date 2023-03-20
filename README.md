@@ -54,7 +54,7 @@ CLI Setup:-
 
 2\) Grab the pre-compiled  binary from **[releases](https://github.com/HunterXProgrammer/Tasker-mdtest/releases/tag/mdtest-V3-assets)** or use the build script to compile it yourself in Termux.
 
-**Eg:-** Depending on your device architecture(use `uname -m` to find out), you can download for `arm`,`arm64`,`x86` and `x86_64` like this -
+**Eg:-** Depending on your device architecture(use `uname -m` to find out), you can download for `arm`,`arm64`(aarch64),`x86` and `x86_64` like this -
 
     arch=arm64 && curl -s -L -O "https://github.com/HunterXProgrammer/Tasker-mdtest/releases/download/mdtest-V3-assets/mdtest-${arch}.zip" && mkdir -p ~/whatsmeow3/mdtest && unzip -o -d ~/whatsmeow3/mdtest mdtest-${arch}.zip && chmod -R 700 ~/whatsmeow3/mdtest
 
