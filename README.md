@@ -19,7 +19,7 @@ Check this Tasker Reddit **[post](https://www.reddit.com/r/tasker)** for more in
 
 ### For CLI Users
 **NOTE:-**
->This section is helpful for those who want to make shell scripts to use `mdtest` to send messages. Not recommended for Tasker beginners since there are ready made Taskenet links in the Reddit Post that you can import.
+>This section is helpful for those who want to make shell scripts to use `mdtest` to send messages. Not recommended for Tasker beginners since there are ready made Taskenet links in the Tasker Reddit Post that you can import.
 
 The previous **Project V2** was made with solely Tasker in mind and didn't have CLI support.
 
@@ -38,14 +38,14 @@ Your [Run Shell] action to use `mdtest` will look like this -
     cd /data/data/net.dinglisch.android.taskerm/files/whatsmeow3/mdtest
     sh ./mdtest COMMAND PARAMETERS
 
-And your [Run Shell] action to use `ffmpeg`(check [this]()) will look like this -
+And your [Run Shell] action to use `ffmpeg`(check [this](https://github.com/HunterXProgrammer/Tasker-mdtest#note-about-audio-messages)) will look like this -
 
     #!/system/bin/sh
     sh /data/data/net.dinglisch.android.taskerm/files/whatsmeow3/ffmpeg/ffmpeg -y -i "/path/to/input/file" -codec:a libopus -ac 1 -ar 48000 -f ogg "/path/to/output/file"
     
     echo $?
 
-Check **[Commands And Parameter]()** for more info about the available CLI commands.
+Check **[Commands And Parameter](https://github.com/HunterXProgrammer/Tasker-mdtest#commands-and-parameters)** for more info about the available CLI commands.
 
 #### CLI In Termux
 CLI Setup:-
