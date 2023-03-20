@@ -60,7 +60,7 @@ CLI Setup:-
 
 OR
 
-You can build and compile it by yourself in Termux use the build script -
+You can build and compile it by yourself in Termux using the build script -
 
     pkg upgrade -y
 
