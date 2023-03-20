@@ -154,7 +154,7 @@ You can use this properly formatted output audio file in the voice messages.
 # Credits
 **[whatsmeow](https://github.com/tulir/whatsmeow) -** Go library `mdtest` is based on.
 
-**[Termux](https://github.com/termux/termux-app) -** The best Android terminal. Allows compiling `mdtest` natively without needing PC or cross-toolchains. `fmmpeg` binaries used from here.
+**[Termux](https://github.com/termux/termux-app) -** The best Android terminal. Allows compiling `mdtest` natively without needing PC or cross-toolchains. `ffmpeg` binaries used from here.
 
 **[TermuxAm](https://github.com/termux/TermuxAm) -** Allows apps to use `am` command from user shell.
 
