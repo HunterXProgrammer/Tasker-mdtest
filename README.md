@@ -45,7 +45,7 @@ And your [Run Shell] action to use `ffmpeg`(check [this](https://github.com/Hunt
     
     echo $?
 
-Check **[Commands And Parameter](https://github.com/HunterXProgrammer/Tasker-mdtest#commands-and-parameters)** for more info about the available CLI commands.
+Check **[Commands And Parameters](https://github.com/HunterXProgrammer/Tasker-mdtest#commands-and-parameters)** for more info about the available CLI commands.
 
 #### CLI In Termux
 CLI Setup:-
@@ -114,8 +114,6 @@ The **COMMAND** and **PARAMETERS** are:-
     setdisappeartimer <jid> <days>
     send <jid> <text>
     sendpoll <jid> <max answers> <question> -- <option 1> / <option 2> / ...
-    multisend <jids...> -- <text>
-    multisend <jids...> -- <text> (the -- is required)
     react <jid> <message ID> <reaction>
     revoke <jid> <message ID>
     senddoc <jid> <document path> <title> [mime-type]
