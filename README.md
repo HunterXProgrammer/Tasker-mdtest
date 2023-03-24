@@ -158,4 +158,4 @@ You can use this properly optimized output audio file in the voice messages.
 
 **[zoom](https://github.com/anitasv/zoom) -** Javascript library that allows making cool zoomable/rotatable Tasker webview Scenes.
 
-**[Comment](https://www.reddit.com/r/tasker/comments/k0r7h9/comment/gdn5ovn/) by OpenOwl3([OwlIsBack](https://www.reddit.com/u/OwlIsBack) -** Java functions used in Tasker to get per-line buffer of shell command.
+**[Comment](https://www.reddit.com/r/tasker/comments/k0r7h9/comment/gdn5ovn/) by [OwlIsBack](https://www.reddit.com/u/OwlIsBack) -** Java functions used in Tasker to get per-line buffer of shell command.
