@@ -13,7 +13,7 @@
   
   - `Status: Bad Network` - Mdtest is waiting for the network to come back and reconnect .
   
-  - `Status: Not Running` - Mdtest is diconnected and not running. It will try to reconnect.
+  - `Status: Not Running` - Mdtest is disconnected and not running. It will try to reconnect.
   
   With this, you will no longer need to restart Mdtest yourself. It will all be taken care of by Tasker.
  
