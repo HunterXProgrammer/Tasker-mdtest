@@ -42,8 +42,7 @@ And your [Run Shell] action to use `ffmpeg`(check [this](https://github.com/Hunt
 
     #!/system/bin/sh
     sh /data/data/net.dinglisch.android.taskerm/files/whatsmeow3/ffmpeg/ffmpeg -y -i "/path/to/input/file" -codec:a libopus -ac 1 -ar 48000 -f ogg "/path/to/output/file"
-    
-    echo $?
+    ##
 
 Check **[Commands And Parameters](https://github.com/HunterXProgrammer/Tasker-mdtest#commands-and-parameters)** for more info about the available CLI commands.
 
