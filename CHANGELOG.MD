@@ -4,7 +4,7 @@
  
 ### Added
 
-- Automatically reconnect Mdtest on disconnection, due to bad network or WhastApp Web timeout.
+- Automatically reconnect Mdtest on disconnection, due to bad network or WhatsApp Web timeout.
 
 - In case Mdtest is re-connecting due to bad network, messages will wait as long as 40 seconds for Mdtest to acquire `Status: Normal`. You can freely change the time limit in the Task to wait as long as you want.
 
