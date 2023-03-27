@@ -63,6 +63,8 @@ You can build and compile it by yourself in Termux using the build script -
 
     pkg upgrade -y
 
+&nbsp;
+
     curl -s -L "https://github.com/HunterXProgrammer/Tasker-mdtest/releases/download/mdtest-V3-assets/install_whatsmeow3_termux.sh" | bash
 
 3\) After that confirm WhatsApp qr code like this -
