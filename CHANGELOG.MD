@@ -25,7 +25,7 @@
  
 - Fixed some occasional **JSON** parse errors.
 
-- Tried to fix some `ffmpeg` errors on Samsung.
+- Fixed some `ffmpeg` errors on Samsung.
  
 ## [V3.0] - 2023-03-20
  
