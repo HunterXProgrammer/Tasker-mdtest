@@ -28,7 +28,7 @@ I'm adding preliminary CLI support with some improvements in this **Project V3**
 #### CLI In Tasker
 Added preliminary CLI support to run `mdtest` from within Tasker itself using action [Run Shell].
 
-1\) Set it up as decribed in this Tasker Reddit **[post](https://www.reddit.com/r/tasker/comments/11wi2om/project_share_sendreceive_whatsapp_message/)**.
+1\) Set it up as described in this Tasker Reddit **[post](https://www.reddit.com/r/tasker/comments/11wi2om/project_share_sendreceive_whatsapp_message/)**.
 
 This will prepare Tasker to enable CLI support natively.
 
