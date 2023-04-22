@@ -114,7 +114,6 @@ The **COMMAND** and **PARAMETERS** are:-
     acceptinvitelink <link>
     setdisappeartimer <jid> <days>
     send <jid> <text>
-    sendpoll <jid> <max answers> <question> -- <option 1> / <option 2> / ...
     react <jid> <message ID> <reaction>
     revoke <jid> <message ID>
     senddoc <jid> <document path> <title> [mime-type]
@@ -124,6 +123,7 @@ The **COMMAND** and **PARAMETERS** are:-
     setstatus <message>
     sendbutton <jid> <title> <text body> <footer> <button1> [button2] [button3] (Note: [] is optional)
     sendlist <jid> <title> <text body> <footer> <button text> <list header> <list title 1> <list description 1> [list title X] [list description X] (Note: Upto 15 item pairs. [] is optional)
+    sendpoll <jid> <max answers> <question> -- <option 1> / <option 2> / ...
     markread <jid> <message ID 1> [message ID X] (Note: Can add multiple message IDs to mark as read. [] is optional)
 
 The **"<>"** means required and the **"[ ]"** means optional.
