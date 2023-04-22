@@ -45,9 +45,9 @@ These variables are populated whenever a WhatApp message of the corresponding ty
 
 `%group_name` = Name of the Group. Only set if message was sent to group.
 
-`%group_number` = Number of the Group. Only set if message was sent to group. Eg:- 123456789-919876543210
+`%group_number` = Number of the Group. Only set if message was sent to group. Eg:- 919876543210-1234567890
 
-`%group_jid` = The JID of the group. Only set if message was sent to group. Eg:- 123456789-919876543210@g.us
+`%group_jid` = The JID of the group. Only set if message was sent to group. Eg:- 919876543210-1234567890@g.us
 
 `%time_stamp` = Time stamp of the message. Its of the format -> 2023-04-21 01:22:04 +0000 UTC
 
