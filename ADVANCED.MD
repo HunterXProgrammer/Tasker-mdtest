@@ -67,7 +67,7 @@ These variables are populated whenever a WhatApp message of the corresponding ty
 
 `%button_selected_button` = Text of the selected Button.
 
-`%origin_message_id` = The message id from which the List Response Message originates from.  
+`%origin_message_id` = The message id from which the Button Response Message originates from.  
 (**Note:-** It is seperate from `%message_id`)
 
 #### Variables specific to List Response Messages:-
@@ -86,7 +86,7 @@ These variables are populated whenever a WhatApp message of the corresponding ty
 
 `%list_selected_description` = The text of the  selected Description
 
-`%origin_message_id` = The message id from which the Button Response Message originates from.  
+`%origin_message_id` = The message id from which the List Response Message originates from.  
 (**Note:-** It is seperate from `%message_id`)
 
 #### Variables specific to Poll Response Messages:-
