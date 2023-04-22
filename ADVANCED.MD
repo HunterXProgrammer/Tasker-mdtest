@@ -5,7 +5,7 @@ As mentioned **[here](https://github.com/HunterXProgrammer/Tasker-mdtest#descrip
 
 And this **Advanced Mdtest V3** section is an extension to the base **Mdtest Project V3**, which gives additional features like sending/receiving WhatsApp Button Messages, List Messages, Poll Messages, Message Revoke, etc.
 
-**Note:-** WhatsApp has currently removed or partially removed sending Button/List/Poll Messages to WhatsApp Business accounts. Normal accounts should work fine.
+**Note:-** WhatsApp has **[currently](https://github.com/tulir/whatsmeow/issues/366)** removed or partially removed sending Button/List/Poll Messages to WhatsApp Business accounts. Normal accounts should work fine.
 
 # Instructions
 ### For Tasker Users
