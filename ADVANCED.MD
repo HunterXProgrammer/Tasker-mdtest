@@ -1,7 +1,7 @@
 # Description
 This Section is recommended for advanced Tasker and Termux users.
 
-As mentioned **[here](https://github.com/HunterXProgrammer/Tasker-mdtest#description)**, the base **Mdtest Project V3** covers sending **WhatsApp Text/Images/Videos/PDF/Documents/Voice Messages**.
+As mentioned **[here](https://github.com/HunterXProgrammer/Tasker-mdtest#description)**, the **Base [Mdtest Project V3](https://www.reddit.com/r/tasker/comments/11wi2om/project_share_sendreceive_whatsapp_message/)** covers sending **WhatsApp Text/Images/Videos/PDF/Documents/Voice Messages**.
 
 And this **Advanced Mdtest V3** section is an extension to the base **Mdtest Project V3**, which gives additional features like sending/receiving WhatsApp Button Messages, List Messages, Poll Messages, Message Revoke, etc.
 
@@ -9,7 +9,7 @@ And this **Advanced Mdtest V3** section is an extension to the base **Mdtest Pro
 
 # Instructions
 ### For Tasker Users
-Check this Tasker Reddit **[post]()** for more info and importable Taskernet links.
+Check this Tasker Reddit **[post](https://www.reddit.com/r/tasker/comments/12v710y/project_share_whatsapp_advanced_send_messages/)** for more info and importable Taskernet links.
 
 ### For CLI Users
 #### CLI In Tasker
