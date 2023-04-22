@@ -93,4 +93,4 @@ These variables are populated whenever a WhatApp message of the corresponding ty
 
 `%poll_question` = The Poll Question. Only set if the Poll Response Message was received when Mdtest was running. It will be written as old/outdated otherwise.
 
-`%poll_selected_options()` = The array that contains the lost of selected options. Only set if the Poll Response Message was received when Mdtest was running.
+`%poll_selected_options()` = The array that contains the list of selected options. Only set if the Poll Response Message was received when Mdtest was running.
