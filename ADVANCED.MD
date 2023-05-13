@@ -1,4 +1,4 @@
-# (Buttons And List Messages Discontinued)
+# Buttons And List Messages Discontinued
 
 Unfortunately several library creators have decided to deprecate sending buttons and list messages due to WhatsApp(Meta) proactively unfixing their fixes.
 
