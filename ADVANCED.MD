@@ -1,3 +1,17 @@
+# (Buttons And List Messages Discontinued)
+
+Unfortunately several library creators have decided to deprecate sending buttons and list messages due to WhatsApp(Meta) proactively unfixing their fixes.
+
+You can read more about it here:-
+
+**[GitHub - Issue #56](https://github.com/WhiskeySockets/Baileys/issues/56#issuecomment-1542947921)**
+
+This should only affect buttons and list messages. Other messages should work fine.
+
+If it is fixed in the future, I'll add it back.
+
+&nbsp;
+
 # Description
 This Section is recommended for advanced Tasker and Termux users.
 
